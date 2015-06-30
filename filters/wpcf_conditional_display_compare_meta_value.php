@@ -1,5 +1,5 @@
 <h1>Title: wpcf_conditional_display_compare_meta_value</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_conditional_display_compare_meta_value/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_conditional_display_compare_meta_value/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_conditional_display_compare_meta_value.php">http://iworks.pl/types/filters/wpcf_conditional_display_compare_meta_value/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_conditional_display_compare_meta_value</b> filter is used to filter the custom field value used in a conditional comparison. It is called before the comparison and applied to the value of a custom field in the current post.</p>

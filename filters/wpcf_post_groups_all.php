@@ -1,5 +1,5 @@
 <h1>Title: wpcf_post_groups_all</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_groups_all/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_groups_all/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_groups_all.php">http://iworks.pl/types/filters/wpcf_post_groups_all/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_post_groups_all</b> filter is used to filter groups data before

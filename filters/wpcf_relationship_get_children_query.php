@@ -1,5 +1,5 @@
 <h1>Title: wpcf_relationship_get_children_query</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_relationship_get_children_query/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_relationship_get_children_query/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_relationship_get_children_query.php">http://iworks.pl/types/filters/wpcf_relationship_get_children_query/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_relationship_get_children_query</b> filter is used to filter</p>

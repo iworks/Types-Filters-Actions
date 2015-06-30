@@ -1,5 +1,5 @@
 <h1>Title: wpcf_fields_shortcode_slug_(slug)</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_fields_shortcode_slug_slug/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_fields_shortcode_slug_slug/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_shortcode_slug_slug.php">http://iworks.pl/types/filters/wpcf_fields_shortcode_slug_slug/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_fields_shortcode_slug_(slug)</b> filter is used to filter

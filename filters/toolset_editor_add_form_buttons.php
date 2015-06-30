@@ -1,5 +1,5 @@
 <h1>Title: toolset_editor_add_form_buttons</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/toolset_editor_add_form_buttons/">http://wp-types.com/documentation/user-guides/types-filters/toolset_editor_add_form_buttons/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/toolset_editor_add_form_buttons.php">http://iworks.pl/types/filters/toolset_editor_add_form_buttons/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>toolset_editor_add_form_buttons</b> filter is used to filter</p>

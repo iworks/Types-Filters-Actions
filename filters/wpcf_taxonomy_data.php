@@ -1,5 +1,5 @@
 <h1>Title: wpcf_taxonomy_data</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_taxonomy_data/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_taxonomy_data/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_taxonomy_data.php">http://iworks.pl/types/filters/wpcf_taxonomy_data/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_taxonomy_data</b> filter is used to filter</p>

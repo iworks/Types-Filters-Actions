@@ -1,5 +1,5 @@
 <h1>Title: wpt_field_options</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpt_field_options/">http://wp-types.com/documentation/user-guides/types-filters/wpt_field_options/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpt_field_options.php">http://iworks.pl/types/filters/wpt_field_options/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpt_field_options</b> filter is used to filter options array for

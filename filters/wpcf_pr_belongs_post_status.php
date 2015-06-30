@@ -1,5 +1,5 @@
 <h1>Title: wpcf_pr_belongs_post_status</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_pr_belongs_post_status/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_pr_belongs_post_status/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_pr_belongs_post_status.php">http://iworks.pl/types/filters/wpcf_pr_belongs_post_status/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_pr_belongs_post_status</b> filter is used to filter</p>

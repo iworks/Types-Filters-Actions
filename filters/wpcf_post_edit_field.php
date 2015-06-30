@@ -1,6 +1,6 @@
 <h1>Title: wpcf_post_edit_field</h1>
 <h2 style="color:red;font-weight:900;">Marcin: I have no idea, how this filter should work!</h2>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_edit_field/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_edit_field/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_edit_field.php">http://iworks.pl/types/filters/wpcf_post_edit_field/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_post_edit_field</b> filter is used to filter</p>

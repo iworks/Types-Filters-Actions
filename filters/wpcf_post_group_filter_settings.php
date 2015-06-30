@@ -1,5 +1,5 @@
 <h1>Title: wpcf_post_group_filter_settings</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_group_filter_settings/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_group_filter_settings/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_group_filter_settings.php">http://iworks.pl/types/filters/wpcf_post_group_filter_settings/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_post_group_filter_settings</b> filter is used to filter</p>

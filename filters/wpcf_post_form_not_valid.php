@@ -1,5 +1,5 @@
 <h1>Title: wpcf_post_form_not_valid</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_form_not_valid/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_form_not_valid/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_form_not_valid.php">http://iworks.pl/types/filters/wpcf_post_form_not_valid/</a></p>
 
 filter to remove is not used in current version of plugin
 

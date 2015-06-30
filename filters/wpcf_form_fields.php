@@ -1,5 +1,5 @@
 <h1>Title: wpcf_form_fields</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_form_fields/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_form_fields/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_form_fields.php">http://iworks.pl/types/filters/wpcf_form_fields/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_form_fields</b> filter is used to filter configuration array on

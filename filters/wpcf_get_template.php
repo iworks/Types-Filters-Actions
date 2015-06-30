@@ -1,5 +1,5 @@
 <h1>Title: wpcf_get_template</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_get_template/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_get_template/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_get_template.php">http://iworks.pl/types/filters/wpcf_get_template/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_get_template</b> filter is used to change the output of a modal window of

@@ -1,5 +1,5 @@
 <h1>Title: wpcf_post_form_error</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_form_error/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_post_form_error/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_form_error.php">http://iworks.pl/types/filters/wpcf_post_form_error/</a></p>
 
 filter to remove is not used in current version of plugin
 

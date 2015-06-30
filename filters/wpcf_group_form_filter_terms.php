@@ -1,5 +1,5 @@
 <h1>Title: wpcf_group_form_filter_terms</h1>
-<p>Location: <a href="http://wp-types.com/documentation/user-guides/types-filters/wpcf_group_form_filter_terms/">http://wp-types.com/documentation/user-guides/types-filters/wpcf_group_form_filter_terms/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_group_form_filter_terms.php">http://iworks.pl/types/filters/wpcf_group_form_filter_terms/</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_group_form_filter_terms</b> filter is used to filter</p>
