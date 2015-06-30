@@ -734,6 +734,12 @@ Dario: to mark as "verified" just add class "verified" to <tr> element:
         <td><span class="verified"><span>un</span>verified</span></td>
     </tr>
 
+    <tr class="">
+        <td><a href="wpcf_config_options_type.php">wpcf_config_options_(type)</a></td>
+        <td><span>ready</span></td>
+        <td><span class="verified"><span>un</span>verified</span></td>
+    </tr>
+
 </tbody>
 </table>
 
