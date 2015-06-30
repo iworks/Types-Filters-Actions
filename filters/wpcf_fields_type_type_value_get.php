@@ -1,5 +1,5 @@
 <h1>Title: wpcf_fields_type_(type)_value_get</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_type_.php">http://iworks.pl/types/filters/wpcf_fields_type_type_value_get/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_type_.php">http://iworks.pl/types/filters/wpcf_fields_type_type_value_get.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_fields_type_(type)_value_get.html</b> filter is used to filter

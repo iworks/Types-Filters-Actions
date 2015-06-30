@@ -1,5 +1,5 @@
 <h1>Title: wpcf_access_tax_caps</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_access_tax_caps.php">http://iworks.pl/types/filters/wpcf_access_tax_caps/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_access_tax_caps.php">http://iworks.pl/types/filters/wpcf_access_tax_caps.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_access_tax_caps</b> filter is used to filter</p>

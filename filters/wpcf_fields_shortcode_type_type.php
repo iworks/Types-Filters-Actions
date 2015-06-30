@@ -1,5 +1,5 @@
 <h1>Title: wpcf_fields_shortcode_type_(type)</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_shortcode_type_type.php">http://iworks.pl/types/filters/wpcf_fields_shortcode_type_type/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_shortcode_type_type.php">http://iworks.pl/types/filters/wpcf_fields_shortcode_type_type.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_fields_shortcode_type_(type)</b> filter is used to filter the shortcode

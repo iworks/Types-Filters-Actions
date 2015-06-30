@@ -1,5 +1,5 @@
 <h1>Title: wpcf_taxonomy_objects</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_taxonomy_objects.php">http://iworks.pl/types/filters/wpcf_taxonomy_objects/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_taxonomy_objects.php">http://iworks.pl/types/filters/wpcf_taxonomy_objects.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_taxonomy_objects</b> filter is used to filter</p>

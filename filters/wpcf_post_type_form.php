@@ -1,5 +1,5 @@
 <h1>Title: wpcf_post_type_form</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_type_form.php">http://iworks.pl/types/filters/wpcf_post_type_form/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_post_type_form.php">http://iworks.pl/types/filters/wpcf_post_type_form.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_post_type_form</b> filter is used to add elements to the Custom Post Type editing form.</p>

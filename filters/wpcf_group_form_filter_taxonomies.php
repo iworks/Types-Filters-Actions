@@ -1,5 +1,5 @@
 <h1>Title: wpcf_group_form_filter_taxonomies</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_group_form_filter_taxonomies.php">http://iworks.pl/types/filters/wpcf_group_form_filter_taxonomies/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_group_form_filter_taxonomies.php">http://iworks.pl/types/filters/wpcf_group_form_filter_taxonomies.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_group_form_filter_taxonomies</b> filter is used to filter</p>

@@ -1,5 +1,5 @@
 <h1>Title: wpcf_get_view</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_get_view.php">http://iworks.pl/types/filters/wpcf_get_view/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_get_view.php">http://iworks.pl/types/filters/wpcf_get_view.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_get_view</b> filter is used to filter the outputted HTML used on the post

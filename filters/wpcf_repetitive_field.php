@@ -1,5 +1,5 @@
 <h1>Title: wpcf_repetitive_field</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_repetitive_field.php">http://iworks.pl/types/filters/wpcf_repetitive_field/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_repetitive_field.php">http://iworks.pl/types/filters/wpcf_repetitive_field.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_repetitive_field</b> filter is used to filter</p>

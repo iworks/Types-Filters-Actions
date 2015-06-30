@@ -1,5 +1,5 @@
 <h1>Title: wpcf_fields_form_additional_filters</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_form_additional_filters.php">http://iworks.pl/types/filters/wpcf_fields_form_additional_filters/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_form_additional_filters.php">http://iworks.pl/types/filters/wpcf_fields_form_additional_filters.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_fields_form_additional_filters</b> filter is used to add data

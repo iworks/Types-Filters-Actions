@@ -1,5 +1,5 @@
 <h1>Title: wpcf_fields_type_(type)_value_save</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_type_type_value_save.php">http://iworks.pl/types/filters/wpcf_fields_type_type_value_save/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_fields_type_type_value_save.php">http://iworks.pl/types/filters/wpcf_fields_type_type_value_save.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_fields_type_(type)_value_save.html</b> filter is used to filter

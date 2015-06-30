@@ -1,5 +1,5 @@
 <h1>Title: wpcf_capability</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_capability.php">http://iworks.pl/types/filters/wpcf_capability/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_capability.php">http://iworks.pl/types/filters/wpcf_capability.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_capability</b> filter is used to filter capability level.</p>

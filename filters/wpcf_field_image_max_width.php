@@ -1,5 +1,5 @@
 <h1>Title: wpcf_field_image_max_width</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_field_image_max_width.php">http://iworks.pl/types/filters/wpcf_field_image_max_width/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_field_image_max_width.php">http://iworks.pl/types/filters/wpcf_field_image_max_width.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_field_image_max_width</b> filter is used to filter default

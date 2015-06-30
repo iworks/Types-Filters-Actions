@@ -1,5 +1,5 @@
 <h1>Title: wpcf_field_pre_save</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_field_pre_save.php">http://iworks.pl/types/filters/wpcf_field_pre_save/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_field_pre_save.php">http://iworks.pl/types/filters/wpcf_field_pre_save.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_field_pre_save</b> filter is used to filter edited data on "Edit

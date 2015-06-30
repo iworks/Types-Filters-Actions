@@ -1,5 +1,5 @@
 <h1>Title: wpcf_relationship_child_meta_form</h1>
-<p>Location: <a href="http://iworks.pl/types/filters/wpcf_relationship_child_meta_form.php">http://iworks.pl/types/filters/wpcf_relationship_child_meta_form/</a></p>
+<p>Location: <a href="http://iworks.pl/types/filters/wpcf_relationship_child_meta_form.php">http://iworks.pl/types/filters/wpcf_relationship_child_meta_form.php</a></p>
 
 <a name="Description" id="Description"></a><h2>Description</h2>
 <p>The <b>wpcf_relationship_child_meta_form</b> filter is used to filter</p>
