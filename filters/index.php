@@ -327,7 +327,7 @@ Dario: to mark as "verified" just add class "verified" to <tr> element:
     </tr>
 
     <tr class="">
-        <td><a href="wpcf_type.php">wpcf_type</a></td>
+        <td><a href="wpcf_add_meta_boxes.php">wpcf_add_meta_boxes</a></td>
         <td><span>ready</span></td>
         <td><span class="verified"><span>un</span>verified</span></td>
     </tr>
@@ -464,6 +464,12 @@ Dario: to mark as "verified" just add class "verified" to <tr> element:
     </tr>
 
     <!-- RED RED RED RED RED -->
+
+    <tr class="">
+        <td><a href="wpcf_add_meta_boxes.php">wpcf_add_meta_boxes</a></td>
+        <td><span>ready</span></td>
+        <td><span class="verified"><span>un</span>verified</span></td>
+    </tr>
 
     <tr class="red">
         <td><a href="wpcf_post_edit_field.php">wpcf_post_edit_field</a></td>
